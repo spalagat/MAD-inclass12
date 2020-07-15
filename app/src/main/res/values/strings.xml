@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">inclass12</string>
+    <string-array name="places_array">
+        <item>airports</item>
+        <item>amusement</item>
+        <item>aquarium</item>
+        <item>car Rental</item>
+        <item>museum</item>
+        <item>police Station</item>
+        <item>city Hall</item>
+        <item>parking</item>
+    </string-array>
+</resources>
